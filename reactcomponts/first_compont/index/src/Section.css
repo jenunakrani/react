@@ -1,0 +1,102 @@
+.container{
+      width: 1320px;
+       margin: auto;
+  }
+.container1 {
+          width: 1170px;
+          margin: auto;
+}
+
+.flex {
+          display: flex;
+          flex-wrap: wrap;
+}
+
+.align-center {
+          align-items: center;
+}
+
+.justify-center {
+          justify-content: center;
+}
+
+.justify-between {
+          justify-content: space-between;
+}
+
+.spacer {
+          padding-top: 100px;
+          padding-bottom: 100px;
+}
+
+.spacer-top {
+          padding-top: 100px;
+}
+
+.spacer-bottom {
+          padding-bottom: 100px;
+}
+
+/* ====================================================
+                    section
+      =================================================== */
+.section_top {
+          margin-top: 30px;
+}
+
+.row {
+          border: 1px solid rgb(184, 182, 182);
+          width: 368px;
+          height: 251px;
+          border-radius: 10px;
+          margin-right: 20PX;
+          line-height: 10px;
+}
+
+img {
+          width: 368px;
+          height: 250px;
+          position: relative;
+          border-radius: 10px;
+}
+
+.content {
+          position: absolute;
+          top: 201px;
+          height: 80px;
+          width: 358px;
+          cursor: pointer;
+          padding-left: 10px;
+          color: rgb(116, 114, 114);
+          background-color: white;
+}
+.content h3{
+      font-size: 20px;
+}
+.content h4{
+      margin-top: 0px;
+      margin-bottom: 10px;
+}
+
+/* ===================================================================
+                  collection
+=================================================================== */
+.colle_row{
+      line-height: 1px;
+}
+.colle img{
+      height: 340px;
+      width: 280px;
+      margin-left: 10px;
+}
+.colle_content{
+      position: absolute;
+      top:760px;
+      color: white;
+      padding-left: 20px;
+      background-color: rgba(0, 0, 0, .2);
+}
+.colle_content h4{
+      font-size: 19px;
+      font-weight: 400;
+}

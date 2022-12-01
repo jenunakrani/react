@@ -1,0 +1,55 @@
+ .div img {
+   height: 250px;
+   width: 330px;
+   border-top-left-radius: 15px;
+   border-top-right-radius: 15px;
+ }
+
+ .div {
+   height: 390px;
+   width: 330px;
+   background-color: whitesmoke;
+   border: 1px double rgb(201, 199, 199);
+   border-radius: 15px;
+ }
+
+ .h2 {
+   margin-left: 14px;
+   color: rgb(77, 76, 76);
+ }
+
+ .icons {
+   margin-left: 14px;
+ }
+
+ .icon {
+   margin-left: 5px;
+ }
+
+ .img_cors:hover {
+   transform: scale(1.1);
+   transition: 1s;
+ }
+
+ .hid {
+   overflow: hidden;
+ }
+
+
+ /* ============================================================ */
+ .card_icons{
+  width: 350px;
+  height: 300px;
+  background-color:#FEFEFE;
+  box-shadow: 2px 2px 5px black;
+  
+ }
+ .img_icon{
+  width: 100px;
+  margin-left: 35%;
+  margin-top: 30px;
+  
+ }
+ .discription{
+  text-align: center;
+ }
